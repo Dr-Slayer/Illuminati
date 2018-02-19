@@ -1,0 +1,10 @@
+E:\Illuminati\EPS\EPS\bin\Debug\EPS.exe.config
+E:\Illuminati\EPS\EPS\bin\Debug\EPS.exe
+E:\Illuminati\EPS\EPS\bin\Debug\EPS.pdb
+E:\Illuminati\EPS\EPS\obj\Debug\EPS.csprojResolveAssemblyReference.cache
+E:\Illuminati\EPS\EPS\obj\Debug\EPS.Form1.resources
+E:\Illuminati\EPS\EPS\obj\Debug\EPS.Properties.Resources.resources
+E:\Illuminati\EPS\EPS\obj\Debug\EPS.csproj.GenerateResource.Cache
+E:\Illuminati\EPS\EPS\obj\Debug\EPS.csproj.CoreCompileInputs.cache
+E:\Illuminati\EPS\EPS\obj\Debug\EPS.exe
+E:\Illuminati\EPS\EPS\obj\Debug\EPS.pdb
